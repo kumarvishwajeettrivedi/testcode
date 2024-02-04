@@ -389,7 +389,9 @@
     height: 312px;
     font-size: 0px;
     
-    background: url(scilentimge.jpg);
+    background: url(scilentimge.jpg)
+    no-repeat center;
+
     background-size: cover;
  
     z-index: 57;

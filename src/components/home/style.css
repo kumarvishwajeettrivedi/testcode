@@ -85,7 +85,7 @@
     width: 31px;
     height: 32px;
     background: rgba(0, 0, 0, 0.022000000000000002)
-      url(file:///C:/Users/HP/Downloads/Task%20-%20Front%20end/Rectangle%20203.svg) no-repeat
+      url(personimage.jpg) no-repeat
       center;
     background-size: cover;
     z-index: 55;
@@ -124,7 +124,7 @@
     top: 5px;
     left: 0;
     color: #292d32;
-    font-family: Inter, var(--default-font-family);
+    font-family: Inter;
     font-size: 24px;
     font-weight: 700;
     line-height: 29px;
@@ -167,7 +167,7 @@
     top: 0;
     left: 0;
     background: rgba(0, 0, 0, 0.022000000000000002)
-      url(file:///C:/Users/HP/Downloads/Task%20-%20Front%20end/Rectangle%20203.svg) no-repeat
+      url(personimage.jpg) no-repeat
       center;
     background-size: cover;
     border-right: 1px solid #000000;
@@ -389,7 +389,7 @@
     height: 312px;
     font-size: 0px;
     
-    background: url("premium_photo-1705170986123-a82af3a2e543.avif");
+    background: url(scilentimge.jpg);
     background-size: cover;
  
     z-index: 57;
@@ -675,7 +675,7 @@
     height: 62px;
     top: 0;
     left: 860.75px;
-    background: url(file:///C:/Users/HP/Downloads/Task%20-%20Front%20end/Rectangle%20203.svg)
+    background: url(backgroundimage.jpg)
       no-repeat center;
     background-size: cover;
     z-index: 34;
@@ -686,7 +686,7 @@
     height: 61px;
     top: 1px;
     left: 715.75px;
-    background: url(file:///C:/Users/HP/Downloads/Task%20-%20Front%20end/Rectangle%20203.svg)
+    background: url(backgroundimage.jpg)
       no-repeat center;
     background-size: cover;
     z-index: 33;
@@ -697,7 +697,7 @@
     height: 61px;
     top: 1px;
     left: 1005.75px;
-    background: url(file:///C:/Users/HP/Downloads/Task%20-%20Front%20end/Rectangle%20203.svg)
+    background: url(backgroundimage.jpg)
       no-repeat center;
     background-size: cover;
     z-index: 37;
@@ -708,7 +708,7 @@
     height: 61px;
     top: 1px;
     left: 1150.75px;
-    background: url(file:///C:/Users/HP/Downloads/Task%20-%20Front%20end/Rectangle%20203.svg)
+    background: url(backgroundimage.jpg)
       no-repeat center;
     background-size: cover;
     z-index: 40;
@@ -806,7 +806,7 @@
     height: 548px;
     top: 0;
     left: -10px;
-    background: url(file:///C:/Users/HP/Downloads/Task%20-%20Front%20end/cover%20image.svg)
+    background: url(backgroundimage.jpg)
       no-repeat center;
     background-size: cover;
     z-index: 11;
